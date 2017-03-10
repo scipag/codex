@@ -1,0 +1,49 @@
+Line 15: Class MSComctlLib.Toolbar of control tbrMenu1 was not a loaded control class.
+Line 62: Class MSComctlLib.ImageList of control imgListMenu1 was not a loaded control class.
+Line 93: Class MSComctlLib.Toolbar of control tbrMenu2 was not a loaded control class.
+Line 144: Class MSComctlLib.ImageList of control imgListMenu2 was not a loaded control class.
+Line 183: Class MSComctlLib.Toolbar of control tbrPosition was not a loaded control class.
+Line 207: Class MSComctlLib.ProgressBar of control pbrPointer was not a loaded control class.
+Line 22: The property name _ExtentX in tbrMenu1 is invalid.
+Line 23: The property name _ExtentY in tbrMenu1 is invalid.
+Line 24: The property name ButtonWidth in tbrMenu1 is invalid.
+Line 25: The property name ButtonHeight in tbrMenu1 is invalid.
+Line 26: The property name AllowCustomize in tbrMenu1 is invalid.
+Line 28: The property name Style in tbrMenu1 is invalid.
+Line 29: The property name ImageList in tbrMenu1 is invalid.
+Line 30: The property name _Version in tbrMenu1 is invalid.
+Line 61: The property name Buttons in tbrMenu1 is invalid.
+Line 65: The property name _ExtentX in imgListMenu1 is invalid.
+Line 66: The property name _ExtentY in imgListMenu1 is invalid.
+Line 68: The property name ImageWidth in imgListMenu1 is invalid.
+Line 69: The property name ImageHeight in imgListMenu1 is invalid.
+Line 70: The property name MaskColor in imgListMenu1 is invalid.
+Line 71: The property name _Version in imgListMenu1 is invalid.
+Line 90: The property name Images in imgListMenu1 is invalid.
+Line 100: The property name _ExtentX in tbrMenu2 is invalid.
+Line 101: The property name _ExtentY in tbrMenu2 is invalid.
+Line 102: The property name ButtonWidth in tbrMenu2 is invalid.
+Line 103: The property name ButtonHeight in tbrMenu2 is invalid.
+Line 104: The property name AllowCustomize in tbrMenu2 is invalid.
+Line 106: The property name Style in tbrMenu2 is invalid.
+Line 107: The property name ImageList in tbrMenu2 is invalid.
+Line 108: The property name _Version in tbrMenu2 is invalid.
+Line 143: The property name Buttons in tbrMenu2 is invalid.
+Line 147: The property name _ExtentX in imgListMenu2 is invalid.
+Line 148: The property name _ExtentY in imgListMenu2 is invalid.
+Line 150: The property name ImageWidth in imgListMenu2 is invalid.
+Line 151: The property name ImageHeight in imgListMenu2 is invalid.
+Line 152: The property name MaskColor in imgListMenu2 is invalid.
+Line 153: The property name _Version in imgListMenu2 is invalid.
+Line 180: The property name Images in imgListMenu2 is invalid.
+Line 190: The property name _ExtentX in tbrPosition is invalid.
+Line 191: The property name _ExtentY in tbrPosition is invalid.
+Line 192: The property name ButtonWidth in tbrPosition is invalid.
+Line 193: The property name ButtonHeight in tbrPosition is invalid.
+Line 194: The property name AllowCustomize in tbrPosition is invalid.
+Line 195: The property name Wrappable in tbrPosition is invalid.
+Line 197: The property name _Version in tbrPosition is invalid.
+Line 213: The property name _ExtentX in pbrPointer is invalid.
+Line 214: The property name _ExtentY in pbrPointer is invalid.
+Line 215: The property name _Version in pbrPointer is invalid.
+Line 219: The property name Scrolling in pbrPointer is invalid.

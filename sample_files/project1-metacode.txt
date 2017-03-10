@@ -1,0 +1,21 @@
+001:001:005 .BEGIN 
+003:002:011 if 
+003:003:012 parentopen 
+003:004:025 varget auth
+003:005:026 parentclose 
+003:006:027 then 
+004:007:041 var content
+004:008:043 assertion 
+004:009:067 string "You're authenticated."
+005:010:071 fi 
+005:011:075 else 
+005:012:076 then 
+006:013:090 var content
+006:014:092 assertion 
+006:015:114 string "Please login first."
+007:016:118 fi 
+009:017:126 output 
+009:018:137 string "Status: "
+009:019:146 var content
+011:020:153 .END 
+
